@@ -1,0 +1,7 @@
+[
+{
+    "id" : "GherkinPrettify",
+    "caption" : "GherkinPrettify",
+    "command" : "gherkin_prettify"
+}
+]

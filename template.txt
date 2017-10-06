@@ -1,0 +1,11 @@
+Feature: Test
+
+  Scenario: aa
+    Given a
+      And aa
+    When  aa
+      And aaa
+    Then ff
+      And sgs
+
+  Examples:
